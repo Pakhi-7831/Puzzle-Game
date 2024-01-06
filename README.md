@@ -14,11 +14,6 @@
 
 
 
-https://user-images.githubusercontent.com/95405559/165681502-13019e5e-74fe-4fcd-b3cf-0bea16569ad1.mp4
-
-
-<br>
-Update - New Layout<br>
 
 ![capture screen](https://user-images.githubusercontent.com/95405559/165681412-94c00f53-47fc-4bb9-bdc5-edb1fff15081.JPG)
 
