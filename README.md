@@ -27,13 +27,13 @@ Please Note :
 
  
 ```sh
-https://babyelias.github.io/Puzzle-Game/
+https://Pakhi-7831.github.io/Puzzle-Game/
 ```
 ```sh
 https://picture-puzzle-game.vercel.app/
 ```
 ```sh
-https://picture-puzzle-game-git-main-babyelias.vercel.app/
+https://picture-puzzle-game-git-main-Pakhi-7831.vercel.app/
 ```
 
 
